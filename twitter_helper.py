@@ -40,7 +40,7 @@ def search_twitter(text=None, since=None, count=None, user=None):
 
 if __name__ == '__main__':
 
-    tweets = search_twitter(text="peta")
+    tweets = search_twitter(text="kenneth")
     for twt in tweets:
         print(f'{twt.name} ---> {twt.text}')
     

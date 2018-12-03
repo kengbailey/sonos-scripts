@@ -1,3 +1,4 @@
 creds.sh
 test.py
 __pycache__/
+*.mp3
